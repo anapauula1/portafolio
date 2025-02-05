@@ -17,5 +17,14 @@
     line-height: 2;
     opacity: 0.5;
 }
+img{
+    width: 500px;
+    height: 400px;
+  }
+.contenedor_imagenes{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1em;
+}
 
 
