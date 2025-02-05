@@ -1,0 +1,21 @@
+.lista_nav{
+    list-style-type: none;
+    /* para sacar los numeros de las listas
+    ordenadas y desordenadas*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nombre{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2.5em;
+    font-style: italic;
+}
+.segundo{
+    font-family: "Courier Prime", serif;
+    font-size: 1em;
+    line-height: 2;
+    opacity: 0.5;
+}
+
+
