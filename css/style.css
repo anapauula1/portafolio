@@ -24,7 +24,21 @@ img{
 .contenedor_imagenes{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 1em;
+    gap: 1.5em;
 }
+.navegador{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.5em;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nav_a{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+}
+
 
 
