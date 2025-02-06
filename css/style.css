@@ -40,7 +40,10 @@ img{
     text-decoration: none;
     padding: 100px;
 }
-
+a:hover{
+    color: #1180aa;
+    font-weight: 600;
+}
 
 
 
