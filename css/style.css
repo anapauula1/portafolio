@@ -39,11 +39,9 @@ img{
     color: black;
     text-decoration: none;
     padding: 100px;
+    opacity: 0.5;
 }
-a:hover{
-    color: #1180aa;
-    font-weight: 600;
-}
+
 
 
 
